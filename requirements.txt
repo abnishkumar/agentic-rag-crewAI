@@ -1,0 +1,7 @@
+langchain
+crewai
+crewai-tools
+streamlit
+MarkItDown
+qdrant_client
+fastembed
