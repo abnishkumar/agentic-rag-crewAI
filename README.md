@@ -88,17 +88,8 @@ Before running the application, ensure you have:
    ```
 
 ## 🎮 Running the Application
-
-Choose your preferred LLM model:
-
-- **For deep-seek-r1**:
   ```bash
-  streamlit run app_deep_seek.py
-  ```
-
-- **For llama 3.2**:
-  ```bash
-  streamlit run app_llama3.2.py
+  streamlit run app.py
   ```
 
 ## 🛠️ System Architecture
